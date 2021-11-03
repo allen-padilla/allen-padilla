@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @allen-padilla
 - 👀 I’m interested in web development, web frameworks, front-end languages, back-end languages and UI design!
-- 🌱 I’m currently learning Laravel 8, and working with gigantic amounts of data.
-- 💞️ I’m looking to collaborate on anything!
+- 🌱 I’m currently learning Laravel 8, and working with lots of data that needs to be saved, and logged!
 - 📫 You can reach me through Github messages, or through my LinkedIn at https://www.linkedin.com/in/allen-padilla/
 
 <!---
