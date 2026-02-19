@@ -1,4 +1,5 @@
-hi, i'm allen i code.  
+hi, i'm allen i code a bit less now.
+  
 favourite stack to use right now: sveltekit + drizzle + betterauth  
 built giant laravel projects pre-ai, now post-ai it would take 10 minutes  
   
