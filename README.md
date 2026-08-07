@@ -1,6 +1,4 @@
-hi, i'm allen i code a bit less now.
-  
-full time claude enjoyer
+Hi, I’m Allen. I practice agentic engineering—turning requirements into plans, harnessing AI agents to build, and reviewing the results.
 
 <!---
 allen-padilla/allen-padilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
