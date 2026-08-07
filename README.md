@@ -1,4 +1,5 @@
 Hi, I’m Allen. I practice agentic engineering. 
+
 Turning requirements into plans, harnessing AI agents to build, and reviewing the results.
 
 <!---
