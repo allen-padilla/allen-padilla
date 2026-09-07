@@ -1,8 +1,7 @@
-Hi, I’m Allen. I practice agentic engineering. 
+Hi, I'm Allen, a full-stack developer in Winnipeg.
 
-Turning requirements into plans, harnessing AI agents to build, and reviewing the results.
+I'm the only developer at the Manitoba Métis Federation, so I take apps from the first requirements conversation through architecture, build, deploy, and support, and I run the infrastructure they sit on. Before that I built the operations platform Computers For Schools Manitoba still runs on. On the side I'm building Canopy, an iOS app for people with ideas.
 
-<!---
-allen-padilla/allen-padilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Most of my day is spent with coding agents now. I set the context and the guardrails, review every change, and the checks have to pass before anything ships. The [repo for my site](https://github.com/allen-padilla/portfolio) shows what that looks like.
+
+Case studies and my resume are at [apadilla.ca](https://apadilla.ca). Open to remote roles or relocating for the right one.
