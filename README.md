@@ -4,4 +4,4 @@ I'm the only developer at the Manitoba Métis Federation, so I take apps from th
 
 Most of my day is spent with coding agents now. I set the context and the guardrails, review every change, and the checks have to pass before anything ships. The [repo for my site](https://github.com/allen-padilla/portfolio) shows what that looks like.
 
-Case studies and my resume are at [apadilla.ca](https://apadilla.ca). Open to remote roles or relocating for the right one.
+Case studies and my resume are at [apadilla.ca](https://apadilla.ca).
